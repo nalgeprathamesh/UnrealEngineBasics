@@ -69,7 +69,7 @@ I’m updating this regularly as I grow and build new stuff. 🎯💥
 
 If you’re also learning Unreal Engine or game dev in general, let’s connect and share ideas!
 
-👉 [Contact Me Here](mailto:prathameshnalgenew@gmail.com)
+👉 Contact me : prathameshnalgenew@gmail.com
 
 ---
 
