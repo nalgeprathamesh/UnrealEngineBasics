@@ -11,7 +11,7 @@ This is where I document my learning path, share mini-projects, and build toward
 - ✅ **[Unreal Sensei – UE5 Beginner Course (5 hours)](https://youtu.be/k-zMkzmduqI?si=8HsAsFuairkdwpz5)**  
   A great introduction that helped me understand the basics of UE5.
 
-- 🔄 **[freeCodeCamp – Unreal Engine 5 for Beginners (11 hours)](https://www.youtube.com/watch?v=1o0Nuq1BROk)** *(Ongoing)*  
+- 🔄 **[freeCodeCamp – Unreal Engine 5 for Beginners (11 hours)](https://youtu.be/6UlU_FsicK8?si=GP622f1xZIk9dOJM)** *(Ongoing)*  
   Currently diving deeper into workflows, blueprints, level design, and more advanced features.
 
 ---
