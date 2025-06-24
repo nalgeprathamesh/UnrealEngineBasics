@@ -54,7 +54,7 @@ You can find environment screenshots and in-editor previews here:
 ## 📬 Contact
 
 Have questions, feedback, or also working on cool UE5 stuff?  
-Let’s connect! Drop me an email: prathameshnalgenew@gmail.com**
+Let’s connect! Drop me an email: prathameshnalgenew@gmail.com
 
 ---
 
